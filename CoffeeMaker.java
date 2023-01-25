@@ -10,7 +10,7 @@ public class CoffeeMaker {
 
         if (hasWorkToDo) {
 
-            System.out.println("Brewing some coffee...");
+            System.out.println("Brewing some hot coffee...");
             hasWorkToDo = false;
         }
 
