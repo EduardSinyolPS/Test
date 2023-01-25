@@ -9,7 +9,7 @@ public class Refrigerator {
     public void orderFood() {
         if (hasWorkToDo) {
 
-            System.out.println("Pouring some milk...");
+            System.out.println("Pouring some milk, and some moree...");
             hasWorkToDo = false;
         }
     }
